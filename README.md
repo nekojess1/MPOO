@@ -1,8 +1,8 @@
-# MPOO (Modelagem e programação orientada a objetos)
+# MPOO (Modelagem e programação orientada a objetos):computer:
 
 
-## Professor: Gabriel Alves
-
+### Professor: Gabriel Alves
+### Semestre: 2018.2
 ### Objetivos:
 - Capacitar os alunos no desenvolvimento de aplicações orientadas a objetos,
 apresentando os principais conceitos deste paradigma de programação.
@@ -12,5 +12,7 @@ apresentando os principais conceitos deste paradigma de programação.
 
 E o mais importante: 
 ### Aprender a aprender! :sunglasses: 
+
+
 
 Informações retiradas do site da disciplina [https://sites.google.com/site/gabrielalvesbsi/mpoo]
