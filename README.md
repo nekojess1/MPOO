@@ -2,7 +2,7 @@
 
 
 ### Professor: Gabriel Alves
-### Semestre: 2018.2
+### Semestre: 2019.2
 ### Objetivos:
 - Capacitar os alunos no desenvolvimento de aplicações orientadas a objetos,
 apresentando os principais conceitos deste paradigma de programação.
