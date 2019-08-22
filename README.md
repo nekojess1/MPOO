@@ -15,4 +15,8 @@ E o mais importante:
 
 
 
-Informações retiradas do site da disciplina [https://sites.google.com/site/gabrielalvesbsi/mpoo]
+Informações retiradas do site da disciplina.  [Clique aqui!](https://sites.google.com/site/gabrielalvesbsi/mpoo)
+
+### Entregas
+
+- Entrega 1 - (21/08/19)
